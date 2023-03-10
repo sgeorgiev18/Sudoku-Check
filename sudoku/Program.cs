@@ -187,7 +187,7 @@ public class Program
             }
             if(sum == 90)
             {
-                Console.WriteLine("OK");
+                Console.WriteLine("OK!");
             }
             else
             {
